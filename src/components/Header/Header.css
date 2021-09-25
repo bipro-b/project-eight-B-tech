@@ -1,0 +1,13 @@
+.header{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.726);
+    background-image: linear-gradient(rgba(212, 176, 176, 0.267),rgba(0, 0, 255, 0.226));
+    padding: 10px;
+    width: 70%;
+   border-radius: 7px;
+   margin-top: 50px;
+    
+}
+.header h3{
+    color: azure;
+}

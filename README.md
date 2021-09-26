@@ -21,5 +21,5 @@ It get object from it'parent  after click on button of it's brother node(Member)
 
 ### Git push ,Deploying with build 
 I have to push in git step by step after completing every little steps.
-After completing full project then  using comand 'npm run buil' make a build folder and drag in netlify .According necessery I have deplyed with build . 
+After completing full project then  using comand 'npm run build' make a build folder and drug in netlify .According to necessery I have deplyed with build . 
 

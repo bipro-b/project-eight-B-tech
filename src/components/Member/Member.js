@@ -15,7 +15,8 @@ const Member = (props) => {
                 <h4>Age: {age} years</h4>
                 <h4>Location: {Location}</h4>
                 <h4>Salary:${salary}</h4>
-                <button className="btn w-50 bg-danger mx-auto my-3 text-succes">{cartIcon} Add to Cart</button>
+                <button onClick={() => props.handleChange(props.team)}
+                    className="btn w-50 bg-danger mx-auto my-3 text-succes">{cartIcon} Add to Cart</button>
                 <div className=" font d-flex justify-content-around mb-3"> <i class="fab fa-facebook-square icon"></i> <i class="fab fa-instagram-square 3x"></i></div>
 
             </div>

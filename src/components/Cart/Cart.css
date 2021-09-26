@@ -1,10 +1,31 @@
 .cart{
+    position: sticky;
+    text-align: center;
     border: 1px solid lightgray;
     border-radius: 5px;
-    box-shadow: 7px 5px 6px 5px cyan;
-    /* box-shadow: 10px 10px 8px 10px #888888; */
-    height: 400px;
+    box-shadow: 7px 5px 6px 5px rgb(85, 88, 88);
+    
     width: 350px;
     background-attachment: fixed;
     background-color: rgba(20, 1, 1, 0.63);
+    background-image: linear-gradient(rgb(85, 85, 81),rgb(250, 243, 242));
+    align-items: center;
+
+}
+h3{
+    font-weight: 400;
+}
+.name{
+    text-align: center;
+    align-items: center;
+    margin-left: 300px;
+}
+.name h3{
+    font-size: 20px;
+    text-align: center;
+    background-color: aqua;
+    border: 1px solid lightcoral;
+    width: 75%;
+    margin-left: 37px;
+    border-radius: 5px;
 }

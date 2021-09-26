@@ -1,7 +1,7 @@
 [
     {
         "id": "1000",
-        "name": "Bruice al",
+        "name": "Bruice Moris",
         "position": "Web Developer",
         "age": "25",
         "Location": "Dhanmondi",
@@ -10,7 +10,7 @@
     },
     {
         "id": "1001",
-        "name": "Cruice al",
+        "name": "Lambard Cruish",
         "position": "Web Developer",
         "age": "24",
         "Location": "Dhanmondi",
@@ -19,7 +19,7 @@
     },
     {
         "id": "1002",
-        "name": "Druice al",
+        "name": "Nancy Rense",
         "position": "Android Developer",
         "age": "28",
         "Location": "gulshan",
@@ -28,7 +28,7 @@
     },
     {
         "id": "1003",
-        "name": "Luice al",
+        "name": "Quicy Nancy",
         "position": "Java Developer",
         "age": "25",
         "Location": "Dhanmondi",
@@ -82,7 +82,7 @@
     },
     {
         "id": "1009",
-        "name": "Bipro Barai",
+        "name": "Cordela Garji",
         "position": "Software Developer",
         "age": "22",
         "Location": "Gopalgonj",

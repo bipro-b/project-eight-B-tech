@@ -15,7 +15,7 @@ const Cart = (props) => {
         const addedMember = member.name + ',       ';
         allName.push(addedMember);
     }
-    console.log(totalSalary);
+
     return (
 
         <div className="cart">

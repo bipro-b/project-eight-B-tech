@@ -1,6 +1,5 @@
-# Project name 
-
-My Project Live link [Create React App](https://github.com/facebook/create-react-app).
+# Project name:  B-tech
+My Project Live link [B-tech](https://b-tech.netlify.app/).
 
 ## My program proccss
 
